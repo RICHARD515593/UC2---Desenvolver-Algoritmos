@@ -42,7 +42,7 @@ Menor e menor igual:< e <= */
 "2" === "2" // true, são iguais
 2 === "2" // false, tipo diferente
 
-const condicao = 1 === 2
+//const condicao = 1 === 2
 // o valor que sai da comparação
 // pode ser guardado em uma variavel
 // nesse caso, consicao === false
@@ -51,7 +51,7 @@ const condicao = 1 === 2
 "2" !== "2" //false, são iguais
 2 !== "2" // true, tipos diferentes
 
-const condicao - 1 !== 2 //true
+//const condicao - 1 !== 2 //true
 
 1 > 2 // false, porque 1 é menor que 2
 2 > 2 // false, porque 2 é igual a 2
