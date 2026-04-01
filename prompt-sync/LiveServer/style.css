@@ -1,0 +1,17 @@
+/* Define o estilo geral da pagina (body) */
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* fonte do texto*/
+    background-color: rgb(100, 30, 30); /*cor do fundo */
+    text-align: center; /* centralizado */
+    margin-top: 50px; /* adiciona espaço de 50px no topo da pagina */
+
+}
+/* define o estilo da caixa central */
+.caixa{
+    background-color: rgb(255, 255, 255);
+    padding: 20px; /*espaço interno da caixa */
+    width: 300px; /* largura fixa de 300px */
+    margin: auto; /* centraliza a caixa*/
+    border-radius: 10px; /* arredonda os cantos da caixa */
+
+} 
